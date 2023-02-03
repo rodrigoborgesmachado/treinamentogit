@@ -11,4 +11,8 @@ git pull - Puxa as alterações do servidor para sua máquina local
 Mateus
 
 
-nova branch
+nova branch com novos comandos.
+git branch <nome da branch> - Cria uma nova branch
+git checkout <nome da branch> - Altera a branch que está trabalhando paras nova branch
+git push origin <nome da branch> - Informa ao servidor que uma nova branch foi criada e sobe a branch
+git pull master - atualiza a branch corrente com as informações da master
