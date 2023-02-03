@@ -21,3 +21,8 @@ git pull master - atualiza a branch corrente com as informações da master
 Alterções Mateus:
 -------------------------------------------------------------------------------------
 Alterções Tiago:
+git pull master - atualiza a branch corrente com as informações da master
+
+
+----------------------------------------------------------------------
+alterções Rodrigo:
