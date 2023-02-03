@@ -1,1 +1,8 @@
-hello
+comandos:
+
+git init - Inicializar o repositório
+git add - Adicionar arquivo (se colocar git add . adiciona todos)
+git commit -m "<comentario>" - Compromete suas alterações, ou seja, fala que já acabou
+git remote origin - Vincula local do repositório entre m´quina local e servidor
+git push - Empurra suas alterações da sua máquina local para o servidor
+git pull - Puxa as alterações do servidor para sua máquina local
