@@ -1,6 +1,5 @@
 comandos:
-
-
+tiago
 git clone <url> - Comando para baixar o repositório remoto na sua máquina
 git init - Inicializar o repositório
 git add - Adicionar arquivo (se colocar git add . adiciona todos)
