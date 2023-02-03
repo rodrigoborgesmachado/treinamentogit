@@ -3,6 +3,7 @@ comandos:
 git clone <url> - Comando para baixar o repositório remoto na sua máquina
 git init - Inicializar o repositório
 git add - Adicionar arquivo (se colocar git add . adiciona todos)
+rodrigo
 git commit -m "<comentario>" - Compromete suas alterações, ou seja, fala que já acabou
 git remote origin - Vincula local do repositório entre m´quina local e servidor
 git push - Empurra suas alterações da sua máquina local para o servidor
